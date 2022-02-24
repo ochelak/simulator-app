@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Meu primeiro Aplicativo Mobile</string>
+    <string name="app_name">Quem Vai Pagar?</string>
+    <string name="cd_simulate">Botão simulação</string>
+    <string name="cd_player_1">Imagem do Player 1</string>
+    <string name="cd_player2">Imagem do Player 2</string>
 </resources>
