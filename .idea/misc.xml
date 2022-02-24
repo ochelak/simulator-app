@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Caio Ochelak/AndroidStudioProjects/Simulator/app/src/main/res/layout/activity_main.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Caio Ochelak/AndroidStudioProjects/simulator-app/app/src/main/res/drawable/ic_simulate.xml" value="0.137" />
+        <entry key="..\:/Users/Caio Ochelak/AndroidStudioProjects/simulator-app/app/src/main/res/layout/activity_detail.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Caio Ochelak/AndroidStudioProjects/simulator-app/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Caio Ochelak/AndroidStudioProjects/simulator-app/app/src/main/res/layout/match_item.xml" value="0.4" />
+        <entry key="..\:/androidsdk/platforms/android-32/data/res/drawable/btn_default.xml" value="0.137" />
       </map>
     </option>
   </component>
@@ -12,5 +17,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16" />
+      </ProjectState>
+    </option>
   </component>
 </project>
